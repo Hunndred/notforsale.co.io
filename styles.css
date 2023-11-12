@@ -66,6 +66,24 @@ body {
     margin-right: 400px;
     margin-bottom: 0;
 }
+.art4 {
+    width: 425px;
+    margin: 150px auto;
+}
+.art4 img {
+    box-sizing: border-box;
+    width: 500px;
+    height: auto;
+    border-radius: 4px;
+}
+.art4 figcaption {
+    width: 100%;
+    margin: 40px auto;
+    font-size: 1.5rem;
+    margin-left: 188px;
+    margin-right: 400px;
+    margin-bottom: 0;
+}
 main {
     padding: 40px;
 }
@@ -76,6 +94,5 @@ footer{
     margin: 40px 0 auto;
 }
 section {
-    width: fit-content;
-    margin: 0 auto;
+   
 }
